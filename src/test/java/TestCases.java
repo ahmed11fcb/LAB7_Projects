@@ -15,17 +15,9 @@ public class TestCases {
     }
 
 
-
-
-
 @Test
 
     public void menoozaaa() {System.out.println("meenooozaaaa ");}
-
-
-
-
-
 
 
 
