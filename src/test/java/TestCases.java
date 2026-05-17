@@ -14,3 +14,7 @@ public class TestCases {
         System.out.println("another test case");
     }
 }
+@Test
+public void YaroAbozeid(){
+    System.out.println("Yaro Abozeid");
+}
