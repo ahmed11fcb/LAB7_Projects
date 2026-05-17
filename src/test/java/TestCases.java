@@ -16,6 +16,28 @@ public class TestCases {
     @Test
     public void lola() {System.out.println("lola");}
 
+
+
+
+
+@Test
+
+    public void menoozaaa() {System.out.println("meenooozaaaa ");}
+
+
+
+
+
+
+
+
+    @Test
+    public void NadoodaTestCase(){
+        System.out.println("Nadooodaaaaa");
+    }
+
+
+
     @Test
     public void Salamony()
     {
