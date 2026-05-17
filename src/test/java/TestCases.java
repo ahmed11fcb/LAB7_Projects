@@ -20,4 +20,10 @@ public class TestCases {
     }
 
 
+
+    @Test
+    public void Salamony()
+    {
+        System.out.println("mariam elsalamony");
+    }
 }
