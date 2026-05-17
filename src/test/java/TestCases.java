@@ -13,10 +13,4 @@ public class TestCases {
     {
         System.out.println("another test case");
     }
-    @Test
-    public void NouraTestCase()
-    {
-        System.out.println("NourA test case");
-    }
-
 }
