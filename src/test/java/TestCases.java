@@ -36,6 +36,28 @@ public class TestCases {
 
 
 
+
+
+
+
+@Test
+
+    public void menoozaaa() {System.out.println("meenooozaaaa ");}
+
+
+
+
+
+
+
+
+    @Test
+    public void NadoodaTestCase(){
+        System.out.println("Nadooodaaaaa");
+    }
+
+
+
     @Test
     public void NadoodaTestCase(){
         System.out.println("Nadooodaaaaa");
@@ -53,4 +75,11 @@ public class TestCases {
     public void AliaaTestCases(){
         System.out.println("Aliaa Ahmed");
     }
+
+    @Test
+    public void YaroAbozeid(){ System.out.println("Yaro Abozeid");}
+
+    @Test
+    public void ayasameh(){System.out.println("aya sameh");}
 }
+
