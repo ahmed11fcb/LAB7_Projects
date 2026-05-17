@@ -7,4 +7,10 @@ public class TestCases {
     {
         System.out.println("ahmed hamdy");
     }
+
+    @Test
+    public void AnotherTestCase()
+    {
+        System.out.println("another test case");
+    }
 }
