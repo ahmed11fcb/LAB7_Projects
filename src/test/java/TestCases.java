@@ -1,7 +1,5 @@
 import org.testng.annotations.Test;
 
-import javax.annotation.processing.SupportedAnnotationTypes;
-
 public class TestCases {
 
     @Test
@@ -19,5 +17,13 @@ public class TestCases {
     @Test
     public void NadoodaTestCase(){
         System.out.println("Nadooodaaaaa");
+    }
+
+
+
+    @Test
+    public void Salamony()
+    {
+        System.out.println("mariam elsalamony");
     }
 }
