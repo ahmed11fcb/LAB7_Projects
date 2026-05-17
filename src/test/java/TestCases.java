@@ -13,12 +13,12 @@ public class TestCases {
     {
         System.out.println("another test case");
     }
-
     @Test
     public void MennaGamal()
     {
         System.out.println("menna");
     }
+    @Test
     public void lola() {System.out.println("lola");}
 
 
@@ -46,6 +46,11 @@ public class TestCases {
     @Test
     public void MariamHadedy ()
     {
-        System.out.println("Menna Gamal");
+        System.out.println("MariamHadedy");
+    }
+
+    @Test
+    public void AliaaTestCases(){
+        System.out.println("Aliaa Ahmed");
     }
 }
