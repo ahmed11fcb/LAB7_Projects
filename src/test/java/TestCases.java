@@ -13,11 +13,9 @@ public class TestCases {
     {
         System.out.println("another test case");
     }
-
     @Test
     public void MennaGamal()
     {
         System.out.println("Menna Gamal");
     }
-
 }
