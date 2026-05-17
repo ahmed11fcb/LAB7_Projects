@@ -17,7 +17,7 @@ public class TestCases {
     @Test
     public void MennaGamal()
     {
-
+        System.out.println("menna");
     }
     public void lola() {System.out.println("lola");}
 
