@@ -13,4 +13,16 @@ public class TestCases {
     {
         System.out.println("another test case");
     }
+    @Test
+    public void lola() {System.out.println("lola");}
+
+    @Test
+    public void Salamony()
+    {
+        System.out.println("mariam elsalamony");
+    }
+
+    @Test
+    public void YaroAbozeid(){ System.out.println("Yaro Abozeid");}
+
 }
