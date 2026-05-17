@@ -13,15 +13,4 @@ public class TestCases {
     {
         System.out.println("another test case");
     }
-
-    @Test
-    public void Salamony()
-    {
-        System.out.println("mariam elsalamony");
-    }
-    @Test
-    public void HebaMahmoud()
-    {
-        System.out.println("Heba Mahmoud");
-    }
 }
