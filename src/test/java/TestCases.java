@@ -13,4 +13,9 @@ public class TestCases {
     {
         System.out.println("another test case");
     }
+
+    @Test
+    public void AliaaTestCases(){
+        System.out.println("Aliaa Ahmed");
+    }
 }
