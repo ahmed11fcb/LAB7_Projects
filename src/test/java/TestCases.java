@@ -19,4 +19,6 @@ public class TestCases {
     {
         System.out.println("mariam elsalamony");
     }
+    @Test
+    public void YaroAbozeid(){System.out.println("Yaro Abozeid");}
 }
