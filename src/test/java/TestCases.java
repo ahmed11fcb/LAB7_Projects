@@ -19,9 +19,4 @@ public class TestCases {
     {
         System.out.println("mariam elsalamony");
     }
-
-    @Test
-    public void meirhan(){
-        System.out.println("hello meriiii");
-    }
 }
