@@ -6,23 +6,18 @@ pipeline{
         maven 'Maven3'
     }
 
-    stages{
+    stages {
+        stage('Build') {
+            steps {
+                bat 'mvn clean'
+            }
+        }
 
-        stage('Build')
-                {
-                    step{
-                        bat 'mvn clean'
-                    }
-                }
-
-        stage('Test')
-                {
-                    step
-                    {
-                        bat 'mvn test'
-                    }
-                }
-
+        stage('Test') {
+            steps {
+                bat 'mvn test'
+            }
+        }
     }
 
 }
