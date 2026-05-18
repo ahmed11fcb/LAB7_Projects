@@ -5,7 +5,7 @@ public class LoginPage {
 
     WebDriver driver;
     public final By Username = By.id("user-name");
-
+    public final By password = By.id("password");
     public LoginPage(WebDriver driver)
     {
         this.driver=driver;
@@ -15,5 +15,9 @@ public class LoginPage {
     public void Enter_Username(String user)
     {
         driver.findElement(Username).sendKeys(user);
+    }
+    public void Enter_Password(String pass)
+    {
+        driver.findElement(password).sendKeys(pass);
     }
 }
