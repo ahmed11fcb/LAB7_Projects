@@ -70,6 +70,14 @@ public class TestCases {
     }
 
     @Test
-    public void YaroAbozeid(){System.out.println("Yaro Abozeid");}
+    public void YaroAbozeid(){ System.out.println("Yaro Abozeid");}
+
+    @Test
+    public void ayasameh(){System.out.println("aya sameh");}
+
+    @Test
+    public void noura (){System.out.println("noura");
+    }
+
 }
 
