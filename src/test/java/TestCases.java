@@ -13,20 +13,40 @@ public class TestCases {
     {
         System.out.println("another test case");
     }
+
+    @Test
+    public void WelcomeFromNaduda(){
+        System.out.println("Hello World!😒");
+
+    }
     @Test
     public void MennaGamal()
     {
         System.out.println("menna");
     }
+
+
+
     @Test
     public void lola() {System.out.println("lola");}
-    
 
-@Test
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    @Test
 
     public void menoozaaa() {System.out.println("meenooozaaaa ");}
-
-
 
     @Test
     public void NadoodaTestCase(){
@@ -52,5 +72,13 @@ public class TestCases {
 
     @Test
     public void ayasameh(){System.out.println("aya sameh");}
+
+
+
+
+    @Test
+    public void noura (){System.out.println("noura");
+    }
+
 }
 
