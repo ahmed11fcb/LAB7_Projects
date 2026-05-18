@@ -30,18 +30,6 @@ public class TestCases {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
     @Test
 
     public void menoozaaa() {System.out.println("meenooozaaaa ");}
@@ -69,5 +57,8 @@ public class TestCases {
 
     @Test
     public void ayasameh(){System.out.println("aya sameh");}
+
+
+
 }
 
