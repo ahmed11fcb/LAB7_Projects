@@ -13,6 +13,22 @@ public class TestCases {
     {
         System.out.println("another test case");
     }
+
+
+
+
+    @Test
+    public void MarwaAttia()
+    {
+        System.out.println("Marwa Helais");
+    }
+    @Test
+    public void forgivenessfromAllah()
+    {
+        System.out.println("I seek forgiveness from Allah");
+}
+
+
     @Test
     public void WelcomeFromNaduda(){
         System.out.println("Hello World!😒");
@@ -28,6 +44,21 @@ public class TestCases {
 
     @Test
     public void lola() {System.out.println("lola");}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
