@@ -68,6 +68,11 @@ public class TestCases {
     }
 
     @Test
+    public void HebaMshmoud()
+    {
+     System.out.println("Heba Mahmoud");
+    }
+    @Test
     public void YaroAbozeid(){ System.out.println("Yaro Abozeid");}
 
     @Test
@@ -80,5 +85,12 @@ public class TestCases {
     public void noura (){System.out.println("noura");
     }
 
+    @Test
+    public void aliaa_new (){System.out.println("noura");}
 }
+
+
+
+
+
 
