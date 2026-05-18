@@ -24,28 +24,8 @@ public class TestCases {
 
     }
 
-
-
     @Test
     public void lola() {System.out.println("lola");}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     @Test
 
