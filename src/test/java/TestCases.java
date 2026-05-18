@@ -14,6 +14,22 @@ public class TestCases {
         System.out.println("another test case");
     }
 
+
+
+
+    @Test
+    public void MarwaAttia()
+    {
+        System.out.println("Marwa Helais");
+    }
+    @Test
+    public void forgivenessfromAllah()
+    {
+        System.out.println("I seek forgiveness from Allah");
+}
+
+
+
     @Test
     public void Salamony()
     {
@@ -24,8 +40,28 @@ public class TestCases {
 
     }
 
+
+
     @Test
     public void lola() {System.out.println("lola");}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     @Test
 
@@ -54,6 +90,9 @@ public class TestCases {
 
     @Test
     public void ayasameh(){System.out.println("aya sameh");}
+
+
+
 
     @Test
     public void noura (){System.out.println("noura");
