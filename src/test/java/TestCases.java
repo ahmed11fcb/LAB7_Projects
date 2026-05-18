@@ -17,7 +17,7 @@ public class TestCases {
     @Test
     public void MarwaAttia()
     {
-        System.out.println("Marwa Attia");
+        System.out.println("Marwa Helais");
     }
 
 
@@ -65,26 +65,6 @@ public class TestCases {
     @Test
     public void MariamHadedy ()
     {
-        System.out.println("MariamHadedy");
+        System.out.println("mariam elsalamony");
     }
-
-    @Test
-    public void AliaaTestCases(){
-        System.out.println("Aliaa Ahmed");
-    }
-
-    @Test
-    public void YaroAbozeid(){ System.out.println("Yaro Abozeid");}
-
-    @Test
-    public void ayasameh(){System.out.println("aya sameh");}
-
-
-
-
-    @Test
-    public void noura (){System.out.println("noura");
-    }
-
 }
-
