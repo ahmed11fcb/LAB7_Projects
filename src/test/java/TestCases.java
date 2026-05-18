@@ -13,17 +13,33 @@ public class TestCases {
     {
         System.out.println("another test case");
     }
-
     @Test
     public void WelcomeFromNaduda(){
         System.out.println("Hello World!😒");
 
+    }
+    @Test
+    public void MennaGamal()
+    {
+        System.out.println("manonaa");
     }
 
 
 
     @Test
     public void lola() {System.out.println("lola");}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -71,7 +87,10 @@ public class TestCases {
 
     @Test
     public void aliaa_new (){System.out.println("noura");}
-
-
 }
+
+
+
+
+
 
