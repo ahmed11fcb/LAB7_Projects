@@ -47,5 +47,10 @@ public class TestCases {
 
     @Test
     public void ayasameh(){System.out.println("aya sameh");}
+
+    @Test
+    public void noura (){System.out.println("noura");
+    }
+
 }
 
