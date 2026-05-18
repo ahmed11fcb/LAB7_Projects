@@ -13,21 +13,38 @@ public class TestCases {
     {
         System.out.println("another test case");
     }
+    @Test
+    public void WelcomeFromNaduda(){
+        System.out.println("Hello World!😒");
+
+    }
+
+
+
+    @Test
+    public void lola() {System.out.println("lola");}
 
 
 
 
 
-@Test
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    @Test
 
     public void menoozaaa() {System.out.println("meenooozaaaa ");}
-
-
-
-
-
-
-
 
     @Test
     public void NadoodaTestCase(){
@@ -37,9 +54,14 @@ public class TestCases {
 
 
     @Test
-    public void Salamony()
+    public void MariamHadedy ()
     {
-        System.out.println("mariam elsalamony");
+        System.out.println("MariamHadedy");
+    }
+
+    @Test
+    public void AliaaTestCases(){
+        System.out.println("Aliaa Ahmed");
     }
 
     @Test
