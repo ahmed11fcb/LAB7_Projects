@@ -77,5 +77,9 @@ public class TestCases {
     public void noura (){System.out.println("noura");
     }
 
+    @Test
+    public void aliaa_new (){System.out.println("noura");}
+
+
 }
 
