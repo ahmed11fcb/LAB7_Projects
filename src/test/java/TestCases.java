@@ -22,7 +22,7 @@ public class TestCases {
     @Test
     public void MennaGamal()
     {
-        System.out.println("menna");
+        System.out.println("manonaa");
     }
 
 
