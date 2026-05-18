@@ -13,11 +13,55 @@ public class TestCases {
     {
         System.out.println("another test case");
     }
+    @Test
+    public void WelcomeFromNaduda(){
+        System.out.println("Hello World!😒");
+
+    }
+
+
 
     @Test
-    public void Salamony()
+    public void lola() {System.out.println("lola");}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    @Test
+
+    public void menoozaaa() {System.out.println("meenooozaaaa ");}
+
+    @Test
+    public void NadoodaTestCase(){
+        System.out.println("Nadooodaaaaa");
+    }
+
+
+
+    @Test
+    public void MariamHadedy ()
     {
-        System.out.println("mariam elsalamony");
+        System.out.println("MariamHadedy");
+    }
+
+    @Test
+    public void AliaaTestCases(){
+        System.out.println("Aliaa Ahmed");
     }
 
     @Test
@@ -26,3 +70,23 @@ public class TestCases {
      System.out.println("Heba Mahmoud");
     }
 }
+
+    @Test
+    public void YaroAbozeid(){ System.out.println("Yaro Abozeid");}
+
+    @Test
+    public void ayasameh(){System.out.println("aya sameh");}
+
+
+
+
+    @Test
+    public void noura (){System.out.println("noura");
+    }
+
+    @Test
+    public void aliaa_new (){System.out.println("noura");}
+
+
+}
+
