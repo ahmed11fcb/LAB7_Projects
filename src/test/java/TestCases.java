@@ -29,7 +29,12 @@ public class TestCases {
 }
 
 
+
     @Test
+    public void Salamony()
+    {
+        System.out.println("mariam elsalamony");
+    }
     public void WelcomeFromNaduda(){
         System.out.println("Hello World!😒");
 
@@ -86,13 +91,6 @@ public class TestCases {
     }
 
     @Test
-    public void HebaMshmoud()
-    {
-     System.out.println("Heba Mahmoud");
-    }
-
-
-    @Test
     public void YaroAbozeid(){ System.out.println("Yaro Abozeid");}
 
     @Test
@@ -107,10 +105,7 @@ public class TestCases {
 
     @Test
     public void aliaa_new (){System.out.println("noura");}
+
+
 }
-
-
-
-
-
 
